@@ -1,0 +1,45 @@
+# Local Python/runtime installations and downloaded dependencies.
+.venv/
+.runtime/
+.bootstrap/
+.uv-cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+vendor/
+models/
+
+# Jobs, footage, reports, and generated application builds stay on this PC.
+workspace/
+build/
+dist/
+Clearframe.exe
+examples/*
+!examples/README.md
+*.log
+*.report.json
+*.clearframe.json
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.m4v
+*.mts
+*.m2ts
+*.wmv
+*.flv
+*.mpg
+*.mpeg
+
+# Local credentials and editor/OS artifacts.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

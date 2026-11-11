@@ -1,0 +1,10 @@
+numpy==1.26.4
+scipy==1.13.1
+opencv-python==4.10.0.84
+av==14.0.1
+PySide6==6.8.3
+einops==0.8.1
+Pillow==11.1.0
+tqdm==4.67.1
+pytest==8.3.5
+scikit-image==0.24.0
